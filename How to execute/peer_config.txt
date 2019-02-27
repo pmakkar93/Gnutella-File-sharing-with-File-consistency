@@ -1,0 +1,25 @@
+#Peer Properties: Peer_ID,Peer_Port,MasterDir1,CacheDir2,SuperPeer
+*Peer
+P01,4001,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-3\Eval_Peer1\Master_Copy,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-3\Eval_Peer1\Cache_Copy,SP01
+*Peer
+P02,4002,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-3\Eval_Peer2\Master_Copy,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-3\Eval_Peer2\Cache_Copy,SP01
+*Peer
+P03,4003,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-3\Eval_Peer3\Master_Copy,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-3\Eval_Peer3\Cache_Copy,SP01
+*Peer
+P04,4004,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-3\Eval_Peer4\Master_Copy,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-3\Eval_Peer4\Cache_Copy,SP02
+*Peer
+P05,4005,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-3\Eval_Peer5\Master_Copy,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-3\Eval_Peer5\Cache_Copy,SP02
+*Peer
+P06,4006,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-3\Eval_Peer6\Master_Copy,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-3\Eval_Peer6\Cache_Copy,SP02
+*Peer
+P07,4007,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-3\Eval_Peer7\Master_Copy,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-3\Eval_Peer7\Cache_Copy,SP03
+*Peer
+P08,4008,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-3\Eval_Peer8\Master_Copy,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-3\Eval_Peer8\Cache_Copy,SP03
+*Peer
+P09,4009,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-3\Eval_Peer9\Master_Copy,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-3\Eval_Peer9\Cache_Copy,SP03
+*Peer
+P10,4010,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-3\Eval_Peer10\Master_Copy,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-3\Eval_Peer10\Cache_Copy,SP04
+*Peer
+P11,4011,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-3\Eval_Peer11\Master_Copy,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-3\Eval_Peer11\Cache_Copy,SP04
+*Peer
+P12,4012,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-3\Eval_Peer12\Master_Copy,K:\IIT Life\Lecture Notes\SEM 1 - DIC AOS DPA\AOS\Homework-Programming\PA-3\Eval_Peer12\Cache_Copy,SP04

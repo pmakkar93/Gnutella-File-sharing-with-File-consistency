@@ -1,0 +1,3 @@
+#Specify the type of approach you want to setup [PUSH/PULL1/PULL2]
+*Consistency
+PULL2

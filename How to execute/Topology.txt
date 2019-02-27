@@ -1,0 +1,3 @@
+#Specify the type of Topology you want to setup [ALL/LIN]
+*Topology
+ALL

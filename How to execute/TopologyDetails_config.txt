@@ -1,0 +1,9 @@
+#All_To_All_Topology and Linear Topology Properties : Peer_ID; Linear_Neigbour; All_Neighbours
+*Topology
+SP01;SP02;SP02,SP03,SP04
+*Topology
+SP02;SP03;SP01,SP03,SP04
+*Topology
+SP03;SP04;SP01,SP02,SP04
+*Topology
+SP04;SP01;SP01,SP02,SP03
